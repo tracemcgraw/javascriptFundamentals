@@ -22,3 +22,6 @@ do{
     console.log(myArr[index]); 
     index++;
 }while (index <= myArr.length);
+
+//make sure to add a break to avoid infinite loop
+
